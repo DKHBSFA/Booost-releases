@@ -3,8 +3,9 @@
 **Booost is LinkedIn growth software that runs on your own computer, not in someone
 else's cloud.** Multi-step outreach campaigns, AI-written comments and posts in your
 own voice, contact intelligence, and an anti-ban system that paces every action and
-stops the moment something looks wrong. Your LinkedIn session and your data stay on
-your machine — Booost never receives your LinkedIn password.
+stops the moment something looks wrong. **Your LinkedIn session never leaves your
+machine** — Booost never receives your LinkedIn password — and your profiles, messages
+and campaigns live in a SQLite file on your own disk.
 
 | | |
 |---|---|
